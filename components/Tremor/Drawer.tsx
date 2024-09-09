@@ -3,7 +3,7 @@
 import * as DrawerPrimitives from "@radix-ui/react-dialog"
 import { RiCloseLine } from "@remixicon/react"
 import * as React from "react"
-import { Button } from "./ui/button"
+import { Button } from "../ui/button"
 import { cx, focusRing } from "@/lib/utils"
 
 const Drawer = (
