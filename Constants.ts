@@ -1,0 +1,1 @@
+export const nu_commerce_base_url  = "https://nu-serverless-api.netlify.app/.netlify/functions/api"
